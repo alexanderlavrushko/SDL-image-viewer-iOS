@@ -1,0 +1,23 @@
+PODS:
+  - BiSON (1.2.0)
+  - SmartDeviceLink-iOS (6.6.0):
+    - BiSON (~> 1.2.0)
+    - SmartDeviceLink-iOS/Default (= 6.6.0)
+  - SmartDeviceLink-iOS/Default (6.6.0):
+    - BiSON (~> 1.2.0)
+
+DEPENDENCIES:
+  - SmartDeviceLink-iOS (~> 6.6.0)
+
+SPEC REPOS:
+  trunk:
+    - BiSON
+    - SmartDeviceLink-iOS
+
+SPEC CHECKSUMS:
+  BiSON: 1165a5486ee9755400b096cf374e1f03cb73a980
+  SmartDeviceLink-iOS: d126ba9d7f688027753e9d3a848a2189b3b732ab
+
+PODFILE CHECKSUM: 52d439753c853c9d035a1e49781a85a2aa1cca4e
+
+COCOAPODS: 1.9.3
